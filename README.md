@@ -80,3 +80,9 @@ Refatorar e aprimorar o **Dashboard de Unidades Básicas de Saúde (UBS)**, impl
     - Descrições adicionais
     - **Nome dos integrantes do grupo**.
     - Dependências do projeto (adicionar no requirements.txt).
+
+## Nome dos participantes 
+- João Pedro Mota Paes Rodrigues de Almeida - 10395291
+- Kenny Jun Takahashi - 10396373
+
+
